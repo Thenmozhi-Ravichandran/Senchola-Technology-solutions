@@ -1,6 +1,7 @@
 DATA ANALYTICS INTERNSHIP
 
-I have learned data cleaning, data manipulations,applying DAX functions, analysis and visualizations.I have utilized Pandas for advanced data manipulations. And utilized Power BI for data visualizations, reports, dashboards for Insights.
+Learned data cleaning, data manipulations,applying DAX functions, analysis and visualizations.
+Utilized Pandas for advanced data manipulations,Power BI for data visualizations, reports, dashboards for Insights.
 
 🛠 Skills
-Jupyter Notebook,Power BI..
+Jupyter Notebook,Power BI, Pandas, Matplotlib, NumPy
